@@ -1,5 +1,6 @@
-from functions.convert import convert
-from functions.parser import parse
+from app1.functions.parser import parse
+
+from app1.functions.convert import convert
 
 feet_inches = input("Enter feet and inches: ")
 

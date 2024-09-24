@@ -1,9 +1,4 @@
-Read Python
 Read Changes
-hi
-hello
-Hi
-Hello
 Clean the house
 Read DoneFinish Python
 
